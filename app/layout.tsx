@@ -9,8 +9,8 @@ const monaSans = Mona_Sans({
 });
 
 export const metadata: Metadata = {
-  title: "Prep wise",
-  description: "AI poewerd Interview Platform",
+  title: "UPreper",
+  description: "AI powerd Interview Platform",
 };
 
 export default function RootLayout({
